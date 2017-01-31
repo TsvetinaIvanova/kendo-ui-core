@@ -8,6 +8,7 @@ slug: howto_usefontawesomeicons_toolbar
 # Use FontAwesome Icons
 
 The example below demonstrates how to use [FontAwesome icons](http://fortawesome.github.io/Font-Awesome/icons/) as Kendo UI ToolBar sprite icons.
+> Make sure that you place the FontAwesome reference after the Kendo UI CSS references to ensure that the custom styles of FontAwesome will be applied.
 
 ###### Example
 
